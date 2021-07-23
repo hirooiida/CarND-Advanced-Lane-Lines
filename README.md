@@ -1,21 +1,15 @@
-## Writeup Template
-
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
----
-
-**Advanced Lane Finding Project**
+# **Advanced Lane Finding Project**
 
 The goals / steps of this project are the following:
 
-1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-1. Apply a distortion correction to raw images.
-1. Use color transforms, gradients, etc., to create a thresholded binary image.
-1. Apply a perspective transform to rectify binary image ("birds-eye view").
-1. Detect lane pixels and fit to find the lane boundary.
-1. Determine the curvature of the lane and vehicle position with respect to center.
-1. Warp the detected lane boundaries back onto the original image.
-1. Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+* Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
+* Apply a distortion correction to raw images.
+* Use color transforms, gradients, etc., to create a thresholded binary image.
+* Apply a perspective transform to rectify binary image ("birds-eye view").
+* Detect lane pixels and fit to find the lane boundary.
+* Determine the curvature of the lane and vehicle position with respect to center.
+* Warp the detected lane boundaries back onto the original image.
+* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
